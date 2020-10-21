@@ -68,13 +68,13 @@ SFX
 - InspectorJ. Pop, Low, A (H1). November 23rd, 2017. Available from: https:freesound.org/people/InspectorJ/sounds/411639/
 
 Converted using WAVToCode:
--Colin J.S. A WAV File to C Code Converter. February 28th, 2011. Available from: http:colinjs.com/wavtocodeV1_0/wavtocode.htm
+- Colin J.S. A WAV File to C Code Converter. February 28th, 2011. Available from: http:colinjs.com/wavtocodeV1_0/wavtocode.htm
 
 Pixel art text/numbers:
--Pixilart, Pixilart - Free online pixel art drawing tool. 2020. Available from: https:www.pixilart.com/
+- Pixilart, Pixilart - Free online pixel art drawing tool. 2020. Available from: https:www.pixilart.com/
 
 Converted using:
--digole.com, Picture to C Hex converter. Available from: https:www.digole.com/tools/PicturetoC_Hex_converter.php
+- digole.com, Picture to C Hex converter. Available from: https:www.digole.com/tools/PicturetoC_Hex_converter.php
 
 Code was used from Appendix 9.5 (audio) and Appendix 9.7 PS/2 Controller
 Intel Corporation - FPGA University Program, DE1-SoC Computer System with ARM Cortex A9 for Quartus® Prime 17.1. [PDF]. November 2017.
